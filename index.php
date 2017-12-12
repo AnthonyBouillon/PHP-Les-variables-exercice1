@@ -6,8 +6,8 @@
   </head>
   <body>
     <?php
-    $name = 'L\'énoncer était de  "créer une viariable nom" mais normalement le nom de la variable doit-etre en anglais';
-    echo $name;
+      $name = 'L\'énoncer était de  "créer une viariable nom" mais normalement le nom de la variable doit-etre en anglais';
+      echo $name;
     ?>
   </body>
 </html>
